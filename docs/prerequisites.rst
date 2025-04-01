@@ -22,7 +22,7 @@ Then, install the Python components to ``~/.local``:
 
 .. code-block:: sh
 
-    python3 software/setup.py develop --user
+    pip3 install -e ./software/
 
 The last step is not required if you just want to upload example firmware.
 
