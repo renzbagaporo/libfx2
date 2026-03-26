@@ -9,10 +9,9 @@ name = "fx2"
 authors = [{name = "whitequark", email = "whitequark@whitequark.org"}]
 description = "A Python package for interacting with Cypress EZ-USB FX2 series chips"
 readme = "README.rst"
-license = {text = "BSD-0-clause"}
+license = {text = "0BSD"}
 classifiers = [
   "Development Status :: 4 - Beta",
-  "License :: OSI Approved", # " :: 0-clause BSD License", (not in PyPI)
   "Topic :: Software Development :: Embedded Systems",
   "Topic :: System :: Hardware",
 ]
